@@ -1,0 +1,21 @@
+@font-face {
+    font-family: MAIAN;
+    src: url(./fonts/MAIAN.TTF);
+  }
+
+
+
+body{
+    background-color: rgb(253, 239, 222);
+}
+
+h2{
+    font-family: MAIAN;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p{
+    font-family: MAIAN;
+    
+}
